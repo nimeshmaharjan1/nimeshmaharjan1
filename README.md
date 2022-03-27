@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimesh Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Lalitpur, Nepal</h3>
 
-- 🔭 I’m currently working on [a full stack Mock Test web application named "Pariksan Portal" made with Angular 13 along with Nebular and Bootstrap 5 on the frontend and Spring Framework along with Hibernate and Spring Boot for the back end development.](https://github.com/nimeshmaharjan1/pariksan_portal-frontend & https://github.com/nimeshmaharjan1/parikan-portal-back-end)
+- 🔭 I’m currently working on a full stack Mock Test web application named "Pariksan Portal" made with Angular 13 along with Nebular Library and Bootstrap 5 on the frontend and Spring Framework along with Hibernate and Spring Boot for the back end development.
+- (https://github.com/nimeshmaharjan1/pariksan_portal-frontend & https://github.com/nimeshmaharjan1/parikan-portal-back-end)
 
 - 🌱 I’m currently learning **React**, **Redux**, **MongoDB**, **TailWind CSS**
 
