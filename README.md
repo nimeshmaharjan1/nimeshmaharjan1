@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on a full stack Mock Test web application named "Pariksan Portal" made with Angular 13 using sass along with Nebular Library and Bootstrap 5 on the frontend and Spring Framework along with Hibernate and Spring Boot for the back end development.
 - (https://github.com/nimeshmaharjan1/pariksan_portal-frontend & https://github.com/nimeshmaharjan1/parikan-portal-back-end)
 
+- 📑 My current portfolio developed with React https://nimeshmaharjan1.github.io/portfolio-react/
+
 - 🌱 I’m currently learning **React**, **Redux**, **MongoDB**, **TailWind CSS**
 
 - 🤝 I’m looking for help with [an ecommerce web application made with the MERN stack](https://github.com/nimeshmaharjan1/ecommerce-front-end)
