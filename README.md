@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack e-commerce web application with its CMS made with Nextjs 13 using tailwindcss, prisma and postgres from supabase. [LIVE](https://ecommerce-cyan-mu.vercel.app/products)<br>🤝 I’m looking for help with Nextjs and TRpc some of my recently developed projects with Next are https://patisserie-iota.vercel.app/ and  https://github.com/nimeshmaharjan1/restaurant-next<br>📑 My current portfolio developed with React https://nimeshmaharjan1.github.io/portfolio-react/<br>🌱 I’m currently learning Rust<br>👨‍💻 All of my projects are available at https://github.com/nimeshmaharjan1<br>📫 How to reach me maharjannimesh11@gmail.com<br>
+
+Need to update this, until then www.nimesh-maharjan.com.np
 
 
 ## 🌐 Socials:
